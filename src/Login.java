@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Login {
 
     public boolean authenticate(String username, String password) {
-
+        // testing commit username
         // Hardcoded credentials (for now)
         String correctUsername = "admin";
         String correctPassword = "1234";
